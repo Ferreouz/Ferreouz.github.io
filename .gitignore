@@ -14,5 +14,4 @@ npm-debug.log*
 
 # ignore directory
 .astro/
-.github/
 .vscode/

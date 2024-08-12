@@ -83,7 +83,7 @@ ENTRYPOINT ["tini", "--", "/docker-entrypoint.sh"]
 
 Or, if you want, download directly in your server using
 ```bash
-wget http://localhost:4321/tutorial-files/Dockerfile 
+wget https://Ferreouz.github.io/tutorial-files/Dockerfile 
 ```
 
 Now you the file in place, let us build the image, I am gonna call my image "n8n-custom"
@@ -135,7 +135,7 @@ To do that let us create a bash script:
 
 As always, you can download directly in your server using:
 ```bash
-wget http://localhost:4321/tutorial-files/buildcustom.sh && chmod +x buildcustom.sh
+wget https://Ferreouz.github.io/tutorial-files/buildcustom.sh && chmod +x buildcustom.sh
 ```
 
 Change in the buildcustom.sh the image name (with the name you gave).

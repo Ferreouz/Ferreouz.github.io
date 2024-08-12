@@ -13,6 +13,6 @@ npm-debug.log*
 .env.production
 
 # ignore directory
-.astro
-.github
-.vscode
+.astro/
+.github/
+.vscode/

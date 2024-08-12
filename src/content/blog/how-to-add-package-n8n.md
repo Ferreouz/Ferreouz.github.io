@@ -1,6 +1,6 @@
 ---
 author: Gabriel Ferreira
-pubDatetime: 2024-07-25T11:11:53Z
+pubDatetime: 2024-08-12T15:24:41.183Z
 title: How to add a NPM package to n8n
 slug: how-to-add-package-n8n
 featured: true
